@@ -12,7 +12,7 @@ function App() {
       <TaskProvider>
         <div className="app">
           <header className="app-header">
-            <h1>React Task Manager</h1>
+            <h1> Task Manager</h1>
           </header>
           
           <main className="app-main">
